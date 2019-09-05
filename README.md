@@ -9,11 +9,9 @@ Complete browser-based ​Memory ​game using ​HTML, ​CSS, ​and ​Vanill
 
 ## General 
 
-Udacity Front-End Developer Nanodegree Third Project
+Live preview https://ankushransiwal.github.io/Memory-Game/
 
-* Live preview https://ankushransiwal.github.io/Memory-Game/
-
-* Game preview 
+Game preview 
 
 <img src="img/play.gif" alt="Game-preview">
 
