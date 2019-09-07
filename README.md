@@ -9,7 +9,7 @@ Complete browser-based ​Memory ​game using ​HTML, ​CSS, ​and ​Vanill
 
 ## General 
 
-Live preview https://ankushransiwal.github.io/Memory-Game/
+Live preview https://ankushransiwal.github.io/Flipping-Card-Memory-game/
 
 Game preview 
 
